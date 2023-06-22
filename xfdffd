@@ -1,0 +1,10 @@
+h1 = '12334'
+
+
+n = 2
+for k in range (n):
+    if h1.isnumeric() == True:
+        print('Yes')
+    else:
+        print('No')
+
